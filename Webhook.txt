@@ -1,0 +1,2 @@
+herhangi bir push yapilirsa jenkins github-webhook 
+otomatik tetiklenecek
